@@ -1,6 +1,4 @@
-// ignore_for_file: file_names
-
-import 'package:login_ui/widgets/buttonWidget.dart';
+import 'package:login_ui/widgets/button_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
